@@ -1,0 +1,49 @@
+.heading{
+    text-align: center;
+}
+.main{
+    background:white;
+}
+body{
+    background: #000;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+    max-height: 800px;
+
+
+}
+.svg{
+    display: flex;
+    justify-content: center;
+ 
+
+} 
+.box{
+    display: flex;
+    justify-content: space-evenly;
+
+    flex-direction: row;
+}
+img{
+    width: 100px;
+}
+.comp1{
+    Transform: rotate(120deg)
+}
+.comp2{
+    Transform: rotate(220deg)
+}
+.options{
+    padding: 15px ;
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
+button{
+    margin: 12px;
+    padding: 12px;
+}
